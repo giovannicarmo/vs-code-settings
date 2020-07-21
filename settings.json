@@ -1,0 +1,27 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "commit-message-editor.view.defaultView": "form",
+  "git.autofetch": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+
+  "emmet.syntaxProfiles": { "javascript": "jsx" },
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+
+  "material-icon-theme.folders.associations": {
+    "migrations": "tools"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
